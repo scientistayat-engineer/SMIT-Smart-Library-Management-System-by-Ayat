@@ -87,3 +87,8 @@ As an evolving data-centric framework, this system lays down a solid foundation 
 ---
 **Final Verdict:** This deployment proves that with minimal structural overhead and zero deployment cost, any small to medium-scale library operation can be successfully digitalized, monitored, and securely audited in real time.
 ---
+
+---
+## 🔗 Interactive Project Workspace
+If GitHub's default file viewer shows an execution render error for the `.ipynb` notebook file, please use the official live cloud environment instead:
+* 🚀 **[Click here to open and run this notebook directly on Google Colab](https://colab.research.google.com/drive/1t3N1LrosTBUOq02gJdQnDEYPrahIKIKY?usp=sharing)**
